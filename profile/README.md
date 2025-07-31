@@ -24,8 +24,8 @@ YeetCode is an interactive web app that turns solo coding practice into a multip
 
 ## 📂 Key Repositories
 
-- [`yeetcode-app`](https://github.com/yeetcode-xyz/yeetcode-app): The main frontend app
-- [`yeetcode-website`](https://github.com/yeetcode-xyz/yeetcode-website): AWS-powered backend (API routes, duels, auth, etc.)
+- [`yeetcode-app`](https://github.com/yeetcode-xyz/yeetcode-app): The main app
+- [`yeetcode-website`](https://github.com/yeetcode-xyz/yeetcode-website): The website
 
 ## 🤝 Join Us
 
