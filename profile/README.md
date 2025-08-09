@@ -3,7 +3,7 @@
 
 The fastest way to make LeetCode actually fun. Turn solo grinding into friendly competition with your dev friends.
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&logo=discord&logoColor=white)](https://discord.gg/bCzgsMfYzU)
+[![Discord](https://img.shields.io/discord/1369504528033910827?color=7289da&logo=discord&logoColor=white)](https://discord.gg/bCzgsMfYzU)
 [![Website](https://img.shields.io/badge/website-yeetcode.xyz-blue)](https://yeetcode.xyz)
 
 ## 🎯 The Problem
