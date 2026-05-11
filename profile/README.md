@@ -40,8 +40,8 @@ Built for scale and speed:
 
 ## 📂 Repositories
 
-- [`yeetcode-app`](https://github.com/yeetcode-xyz/yeetcode-app) — Main application
-- [`yeetcode-website`](https://github.com/yeetcode-xyz/yeetcode-website) — Landing page & marketing site
+- [`yeetcode-app`](https://github.com/yeetcode-xyz/yeetcode-api) — Backend functionality
+- [`yeetcode-website`](https://github.com/yeetcode-xyz/yeetcode-website) — Main site with the fun stuff
 
 ## 🔒 Privacy & Security
 
